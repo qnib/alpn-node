@@ -1,4 +1,4 @@
-FROM qnib/alpn-terminal
+FROM qnib/alpn-syslog
 
 ## inspired by 
 # https://github.com/mhart/alpine-node/blob/master/Dockerfile
